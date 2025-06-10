@@ -23,4 +23,6 @@ SECTIONS {
 	.data : ALIGN(4K) {
 		*(.data);
 	}
+
+  PROVIDE(_end = .);
 }
