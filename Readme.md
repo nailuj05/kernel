@@ -1,5 +1,4 @@
 # RISCV64 Kernel
-
 > Recreational/educational coding project
 
 Simple kernel written in C, developed for and tested in QEMU riscv64 (virt)
